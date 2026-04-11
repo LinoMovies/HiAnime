@@ -1,9 +1,5 @@
 #Updated 10.03.2026
 
-#Appodeal
-
-appodeal.com, 262333, DIRECT
-
 #BidMachine
 
 bidmachine.io,1,DIRECT
@@ -3309,6 +3305,10 @@ rhebus.works,5000863388,RESELLER
 rhebus.works,8978398251,RESELLER
 
 rhebus.works,9176497567,RESELLER
+
+#Appodeal
+
+appodeal.com, 262333, DIRECT
 
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 
